@@ -1,7 +1,9 @@
-thi
+B
+B
+hi
 hello
-hat
 
+<<<<<<< HEAD
 gfbjgfk
 file
 modified
@@ -9,3 +11,5 @@ modified
 java
 web
 
+=======
+>>>>>>> parent of 126ea83 (testfile chnages added)
